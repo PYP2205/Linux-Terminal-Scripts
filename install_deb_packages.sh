@@ -1,3 +1,4 @@
+#!/bin/bash
 # Linux shell script that installs .deb (debian) files to your system.
 # Note: This only works for Debain, and Debian based systems (Ubuntu, Kali Linux, etc.).
 
