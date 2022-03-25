@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Linux Shell script that updates your local APT repositories and packages.
 
 sudo apt update -y && sudo apt upgrade -y
